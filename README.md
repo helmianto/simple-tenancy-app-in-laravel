@@ -8,7 +8,7 @@
 </p>
 
 ## About This App
-Official documentation here : <a href="https://tenancyforlaravel.com/docs/v3/quickstart" target="_blank">Official documentation</a>
+Official documentation here : <a href="https://tenancyforlaravel.com/docs/v3/quickstart">Tenancy For Laravel</a>
 
 ## About Laravel
 
