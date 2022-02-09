@@ -1,8 +1,8 @@
 @extends('layouts.app')
-@section('title', 'Buat Post Baru')
+@section('title', 'Buat Tenant Baru')
 @section('content')
 <div class="wrapper">
-    <h1>Buat Post Baru</h1>
+    <h1>Buat Tenant Baru</h1>
 
     @if (session('success'))
     <div class="alert-success">
